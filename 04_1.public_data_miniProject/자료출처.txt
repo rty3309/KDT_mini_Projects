@@ -1,0 +1,19 @@
+소고기생산량
+https://www.kaggle.com/datasets/mathurinache/beefmeatproduction
+
+록햄프턴(Rockhampton) 날씨
+월간 강수량
+https://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=139&p_display_type=dataFile&p_stn_num=039083
+월간 평균최고온도
+https://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=36&p_display_type=dataFile&p_stn_num=039083
+월간 평균최저온도
+https://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=38&p_display_type=dataFile&p_stn_num=039083#top
+
+기사및사이트
+https://www.mcdonalds.co.kr/kor/story/competition/fresh
+
+https://www.beefcentral.com/trade/records-smashed-as-2014-beef-exports-hit-1-287-million-tonnes
+
+https://farminsight.net/news/articleView.html?idxno=14816
+
+http://www.hanwoonews.kr/news/article.html?no=26350
