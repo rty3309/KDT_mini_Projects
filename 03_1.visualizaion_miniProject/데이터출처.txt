@@ -1,0 +1,8 @@
+(1) 2025_KBO_top30_HR.xlsx (아래 사이트 데이터로 제작)
+https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx?sort=HRA_RT
+
+(2) 2025_KBO_tpo30_ISO.xlsx (아래 사이트 데이터로 제작)
+https://www.koreabaseball.com/Record/Player/HitterBasic/Detail1.aspx
+
+(3) kbo_batting_stats_fixed.csv
+https://www.kaggle.com/datasets/netsong/kbo-player-dataset-by-regular-season-1982-2025
